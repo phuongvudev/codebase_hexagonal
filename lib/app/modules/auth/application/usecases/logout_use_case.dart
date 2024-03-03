@@ -1,0 +1,3 @@
+mixin LogoutUseCase {
+  Future logout();
+}

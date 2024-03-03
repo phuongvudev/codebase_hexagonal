@@ -1,0 +1,4 @@
+
+mixin  LoadUserPort {
+  void loadUser();
+}

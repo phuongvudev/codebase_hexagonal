@@ -1,0 +1,4 @@
+
+mixin LoadUserUseCase {
+  void loadUser();
+}
